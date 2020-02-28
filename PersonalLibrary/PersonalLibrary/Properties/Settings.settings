@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PersonalLibrary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">26, 32, 45</Value>
+    </Setting>
+    <Setting Name="FormBackColor1" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DodgerBlue</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

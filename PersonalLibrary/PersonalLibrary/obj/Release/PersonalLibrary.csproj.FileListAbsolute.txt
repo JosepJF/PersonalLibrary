@@ -1,0 +1,17 @@
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\bin\Release\PersonalLibrary.exe.config
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\bin\Release\PersonalLibrary.exe
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\bin\Release\PersonalLibrary.pdb
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.AddForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.AnimesForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.BookForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.MovieForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.TemplateUC.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.TemplateHeadUC.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.MainForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.Properties.Resources.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.SeriesForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.StartForm.resources
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.csproj.GenerateResource.cache
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.exe
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.pdb
+C:\Users\Josep\Desktop\JosepJF\Cursos\WindowsForm\PersonalLibrary\obj\Release\PersonalLibrary.csprojAssemblyReference.cache
